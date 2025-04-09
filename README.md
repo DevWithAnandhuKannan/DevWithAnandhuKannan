@@ -1,5 +1,4 @@
-# 💫 About Me:
-MCA student passionate about building real-world tech solutions  <br>Interested in AI, deep learning, and cross-platform development  <br>Tech stack: React, Django, Flask, Docker, ML, AI <br>exploring Flutter and modern app design  <br>Fascinated by space, quantum concepts, and futuristic tech  <br>
+# Interested in AI, deep learning, and cross-platform development  <br>Tech stack: React, Django, Flask, Docker, ML, AI <br>exploring Flutter and modern app design  <br>Fascinated by space, quantum concepts, and futuristic tech  <br>
 
 
 ## 🌐 Socials:
